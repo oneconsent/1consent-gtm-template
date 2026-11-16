@@ -20,7 +20,12 @@ ___INFO___
   "description": "Load your published 1Consent banner and connect visitor choices to Google Consent Mode.",
   "containerContexts": [
     "WEB"
-  ]
+  ],
+  "brand": {
+    "id": "brand_dummy",
+    "displayName": "",
+    "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAMAAADVRocKAAAANlBMVEX///8PDyMPDyIPDyQHBxwnJzlFRVVYWGZsbHl6eoWsrLPQ0NT+/v42Nkebm6Pe3uGKipS8vMI6WRTFAAAAAXRSTlMAQObYZgAAAqJJREFUaN7lWuuupCAMFimXAQXP+7/sMbOjgyOlZbSbTbb/TKQfvVB6YRiOpNSoL9Co1NCga8zfIBh7fRspWfZViFHfTOORvxYgaf4lwigDMArZ92xpLUbCAmwi8P+HnXpEUFze2ljnHyt5Z43moSieC6287CPEqaAY/KxpjJGjoZV7ylOF4mI1kDpSJHsfJ5SiJyAUAbCyz1OTchtCNU0A4OJEUrTQMkKLvwkTi5LBIRoA4I7ayTEs3q3klxDZQjQAHgfuyZnyoBl39CwP3QCpWB7cyefXb1dqcOkFKBaHuX6iAGzxV+oDCKV+geVmqQMAUiE6tA/K8v4VuACw2zdbMtwUzlaz9FBdsqtnZoRMmHeEynaG2vnaFkTDCvxgNkNkwwIIffzLLSWgAXYF5Zl9cb21dFJSRQLsXygJ21UkJdg96MPpYE4lndAT4kkngE2dn1sBO7VjT6yv+wQAjymIANiV5KAtwWsjAXol2JwvNiXY2cz9APWlQ91WAV+PR4Wf571h2zbI2JkHm/8QCrAGpeAMNL1o22bGz5Rt3GAGqFgEC3bi38eBuCIJgIBGxQ8ZvwR4maASFO8B2OSPWgrAUia4CvCKEw9pAC8GsFTj1X1u+n8A/ONGdtJuKn7QpEOFeLDbywKxcM24cC4CkFcmXLsyG5c+DcC59BtpC0MCTtqCJ14kAC/xwlNHWgJW6ognv1Q0ZSe/WPpOhmtm+o4WIISK+AUIXkJtueOTzNclFFkE1mq0viJQuoy9UohHzQEQbyXIN0P62jnpi3aOfEOK2VLTF1pq8k3BwtJCbc1TY3a6uzF7U2tZvDku3t4XH1CIj1jkh0TdYy7fOeYSH9TJjxrFh6Xy417xgbX8yF3+0YD8swf5hxvyT0/+wuMZmec/v+KQofoWf4BXAAAAAElFTkSuQmCC"
+  }
 }
 
 
