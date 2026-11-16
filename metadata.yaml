@@ -1,3 +1,5 @@
 homepage: "https://1consent.app"
 documentation: "https://1consent.app/docs/integration/google-tag-manager"
-versions: []
+versions:
+  - sha: d0f5871ca41be94ecea61c8ddf3509c60dfca7ae
+    changeNotes: Initial release of the 1Consent CMP template for Google Tag Manager.
